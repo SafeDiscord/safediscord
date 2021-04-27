@@ -1,6 +1,6 @@
 # SafeDiscord
 
-SafeDiscord exists to keep track of troublemakers that may join your server, so you don't have to.
+SafeDiscord exists to keep track of troublemakers that may join your server, so you don't have to. This isn't a moderation suite. No fancy bells or whistles, just a snitch to possibly malicious accounts.
 
 Shills, PM spammers, possibly underage accounts, and many more options.
 
