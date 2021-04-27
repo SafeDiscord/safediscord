@@ -30,4 +30,5 @@ We encourage you to not report someone just because the bot warns you about them
 - [ ] multiple ways to warn a server of possible troublemaker joining: PMs to certain ranks, specific channel, custom message
 - [ ] learn how bots store configs per server
 - [ ] learn how to do weighted search shenanigans for "this is the most common offense"
-- [ ] possibly add roles to possible troublemakers?
+- [ ] add roles to incoming troublemakers?
+- [ ] warn if account age is below threshold & IP is known VPN outlet
