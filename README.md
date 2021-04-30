@@ -32,3 +32,4 @@ We encourage you to not report someone just because the bot warns you about them
 - [ ] learn how to do weighted search shenanigans for "this is the most common offense"
 - [ ] add roles to incoming troublemakers?
 - [ ] warn if account age is below threshold & IP is known VPN outlet
+- [ ] create gitignored file of guilds and their settings, probably in YAML
