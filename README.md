@@ -22,6 +22,8 @@ We encourage you to not report someone just because the bot warns you about them
 ### Todo
 - [X] check usernames or IDs within server
 - [X] re-think bot
+- [ ] sync self-hosted bot with main repo
+- [ ] disable reporting if self-hosting (conflicting files problem)
 - [ ] re-think data storage
 - [ ] instructions on how to get a user's UUID for manually checking
 - [ ] possible frontend search by UUID for offenders (haveibeenpwned.com-esque)
