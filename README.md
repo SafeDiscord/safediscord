@@ -12,6 +12,10 @@ Invite the bot to your server, and go through setup with `//TODO SETUP BOT COMMA
 
 We encourage you to not report someone just because the bot warns you about them, but wait to see if there are any problems. This helps us keep down the false positives.
 
+---
+
+## To developers:
+(Here)[https://github.com/SafeDiscord/safediscord-bot] is the bot code. Please fork and PR, we need all the help we can get. Thank you for your efforts!
 
 
 
