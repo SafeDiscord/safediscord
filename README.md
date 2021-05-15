@@ -15,7 +15,7 @@ We encourage you to not report someone just because the bot warns you about them
 ---
 
 ## To developers:
-(Here)[https://github.com/SafeDiscord/safediscord-bot] is the bot code. Please fork and PR, we need all the help we can get. Thank you for your efforts!
+[Here](https://github.com/SafeDiscord/safediscord-bot) is the bot code. Please fork and PR, we need all the help we can get. Thank you for your efforts!
 
 
 
